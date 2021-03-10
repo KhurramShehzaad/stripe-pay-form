@@ -1,0 +1,8 @@
+<?php 
+
+define("STRIPE_SECRET_KEY", "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");
+
+define("STRIPE_PUBLISHABLE_KEY", "pk_live_51I3NdxHfUIgm8yPEEouw9U6S5iIX7mu25AiMYkLx0Etp7CJAfQxnAWAt4bd7qXvJBx8HFrPxTkUpqpdMEuqmHEe1002GgW7t54");
+
+?>
+
